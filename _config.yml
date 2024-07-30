@@ -1,0 +1,12 @@
+name: Hieu Nguyen
+# permalink: /:title/
+# baseurl: https://hieubo.com
+# baseurl: ""
+permalink: /blog/:title
+
+# seo tag
+plugins:
+  - jekyll-seo-tag
+
+# Google Analytics
+# google_analytics:
